@@ -1,8 +1,8 @@
-# Hi, I'm Pranav
+# Hi, I'm Pranav 👋
 
-Computer Science student at UBC (graduating August 2026) interested in distributed systems, networking, machine learning, and low-level design. I like reinventing the wheel to understand how complex things work under the hood.
+Computer Science student at UBC (graduating August 2026) interested in distributed systems, networking, machine learning, and low-level design. I like reinventing the wheel to understand how complex things work under the hood 🔩
 
-## Projects
+## Projects 🛠️
 
 **[dcs — Distributed Coordination Service](https://github.com/phselin/dcs)** `Go` `Raft`
 > etcd-lite. Raft consensus from scratch — leader election, log replication, disk persistence, linearizable reads via read leases, exposed over HTTP.
@@ -11,9 +11,9 @@ Computer Science student at UBC (graduating August 2026) interested in distribut
 > Full-stack platform replacing a legacy system for a Vancouver non-profit. Schema-driven architecture, RBAC + TOTP auth, CI/CD via GitHub Actions, deployed on Azure.
 
 **[Nova — Engineless Game (ECS)](https://github.com/phselin)** `C++` `OpenGL` `SDL`
-> Custom game built without an engine. ECS architecture at 60+ FPS, procedural map generation, A* pathfinding, custom physics and collision detection.
+> Custom game built without an engine. ECS architecture at 60+ FPS, procedural map generation, A* pathfinding, custom physics and collision detection. 🎮
 
-## Tech
+## Tech ⚙️
 
 `C/C++` `Go` `Python` `Java` `JavaScript/TypeScript` `Erlang`  
 `React` `Flask` `FastAPI` `OpenGL` `SDL`  
