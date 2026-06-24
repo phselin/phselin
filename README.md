@@ -1,6 +1,6 @@
 # Hi, I'm Pranav 👋
 
-Computer Science student at UBC (graduating August 2026) interested in distributed systems, networking, machine learning, and low-level design. I like reinventing the wheel to understand how complex things work under the hood 🔩
+Computer Science student at UBC interested in distributed systems, networking, machine learning, and low-level design. I like reinventing the wheel to understand how complex things work under the hood 🔩
 
 ## Tech ⚙️
 
