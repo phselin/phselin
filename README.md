@@ -4,7 +4,7 @@ Computer Science student at UBC interested in distributed systems, networking, m
 
 ## Tech ⚙️
 
-`C/C++` `Go` `Python` `Java` `JavaScript/TypeScript` `Erlang`  
+`C/C++` `Go` `Python` `Java` `C#` `JavaScript/TypeScript` `Erlang`  
 `React` `Flask` `FastAPI` `OpenGL` `SDL`  
 `SQL` `MongoDB` `Redis` `Docker` `GitHub Actions` `Linux`
 
