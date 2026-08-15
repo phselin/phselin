@@ -8,4 +8,4 @@ Computer Science student at UBC interested in distributed systems, machine learn
 `React` `Flask` `FastAPI` `OpenGL` `SDL`  
 `SQL` `MongoDB` `Redis` `Docker` `GitHub Actions` `Linux`
 
-📫 pranavlaiya02@gmail.com
+📫 prranavlaiya@gmail.com
