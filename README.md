@@ -1,11 +1,11 @@
 # Hi, I'm Pranav 👋
 
-Computer Science student at UBC interested in distributed systems, machine learning, and low-level design. I like reinventing the wheel to understand how complex things work under the hood 🔩
+Computer Science student at UBC interested in distributed systems and machine learning. I like reinventing the wheel to understand how complex things work under the hood 🔩
 
 ## Tech ⚙️
 
-`C/C++` `Go` `Python` `Java` `C#` `JavaScript/TypeScript` `Erlang`  
+`C/C++` `Go` `Python` `Java` `JavaScript/TypeScript` `Erlang`  
 `React` `Flask` `FastAPI` `OpenGL` `SDL`  
-`SQL` `MongoDB` `Redis` `Docker` `GitHub Actions` `Linux`
+`PostgreSQL` `MongoDB` `Redis` `Docker` `GitHub Actions` `Linux`
 
 📫 prranavlaiya@gmail.com
